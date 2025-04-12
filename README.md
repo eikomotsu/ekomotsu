@@ -1,4 +1,4 @@
-# eikomotsu
+# ekomotsu
 Hello world, this is my profile
 <h1 align="center">Hi 👋, I'm Navari Yashwanth reddy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekomotsu&label=Profile%20views&color=0e75b6&style=flat" alt="ekomotsu" /> </p>
